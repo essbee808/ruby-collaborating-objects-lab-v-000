@@ -18,6 +18,5 @@ attr_accessor :name, :artist
     song #=> return song object
     
   end
-  
-  
+
 end
